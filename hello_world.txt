@@ -1,0 +1,2 @@
+Hello World! And Hello GitHub. This is my first time using Git and GitHub.
+I'm on my journey to become a full-stack dev. I'm already a game dev(to a certain level), and I thought that it would be nice to challenge myself and learn a new thing :)
