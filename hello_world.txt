@@ -1,3 +1,9 @@
 Hello World! And Hello GitHub. This is my first time using Git and GitHub.
 I'm on my journey to become a full-stack dev. I'm already a game dev(to a certain level), and I thought that it would be nice to challenge myself and learn a new thing :)
 BTW, I'm suprised that I didn't had any permission problems with WSL while making all of this Git thing
+
+This file will also explain how a commit should be made.
+First things firts, separate the commit in two sections: Subject and Body.
+The subject should be around 50 characters long, and should contain what was changed in imperative mood. "Add description on commits"
+The body should describe what and why was changed, and should be wrapped in 72 characters.
+Subject and Body should be separated by a blank line. Subject should not end in a period.
